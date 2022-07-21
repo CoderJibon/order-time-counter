@@ -53,7 +53,7 @@ counterSub.onsubmit = (e) => {
                                 </div>`;
             
            
-       })
+       },1000);
     }
 
 }
